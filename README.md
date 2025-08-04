@@ -1,10 +1,6 @@
 # 💧 Water Net  
 ### 🌐 A Network for Monitoring and Assessing Water Quality for Drinking and Irrigation Purposes
 
-![Water Safety](https://img.shields.io/badge/Water%20Safety-High-blue)
-![Python](https://img.shields.io/badge/Made%20with-Python-blue)
-![AI Model](https://img.shields.io/badge/AI%20Model-Deployed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
